@@ -1,0 +1,23 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  gap: 20px;
+}
+
+/* .logo {
+  width: 40px;
+} */
+
+.logo {
+  width: 40px;
+
+  overflow: hidden;
+  transition-duration: 0.8s;
+  transition-property: transform;
+}
+.logo:hover {
+  transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+}

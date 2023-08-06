@@ -1,0 +1,16 @@
+.homepage-container {
+  max-width: 30%;
+  padding: 64px 120px;
+}
+
+.headings-container {
+}
+
+h1 {
+  font-size: 64px;
+
+  background: #00f9ff;
+  background: linear-gradient(to right, #c700c7 0%, #6591d4 50%, #00f9ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
