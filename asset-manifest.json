@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cybersecurity/static/css/main.d5f44b7a.css",
+    "main.js": "/cybersecurity/static/js/main.a9a0480e.js",
+    "static/js/787.e2687bde.chunk.js": "/cybersecurity/static/js/787.e2687bde.chunk.js",
+    "static/media/logo.png": "/cybersecurity/static/media/logo.e73e1f9c47a45b539cce.png",
+    "index.html": "/cybersecurity/index.html",
+    "main.d5f44b7a.css.map": "/cybersecurity/static/css/main.d5f44b7a.css.map",
+    "main.a9a0480e.js.map": "/cybersecurity/static/js/main.a9a0480e.js.map",
+    "787.e2687bde.chunk.js.map": "/cybersecurity/static/js/787.e2687bde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f44b7a.css",
+    "static/js/main.a9a0480e.js"
+  ]
+}
